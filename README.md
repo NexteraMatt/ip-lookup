@@ -239,3 +239,5 @@ Google Maps link: https://maps.google.com/?q=<lat>,<lon>
 **Cache Issues:** If outdated information is returned, try using the --clear-cache flag to refresh the cache.
 
 ## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
